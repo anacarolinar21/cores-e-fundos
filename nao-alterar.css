@@ -14,8 +14,8 @@ body {
 }
 
 main#container {
-    width: 200px;
-    height: 100px;
+    width: 500px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
@@ -23,7 +23,7 @@ main#container {
 }
 
 main#container > * {
-    padding: 3px;
+    padding: 5px;
 }
 
 h1.titulo {
